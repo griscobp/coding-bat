@@ -5,5 +5,6 @@ In this repository, I'm recording my progress through exercises in Python from [
 ## Completed So Far
 
 * Warmup-1
-  * sleep_in
+  * [sleep_in](/warmup-1\sleep_in)
+  * (monkey_trouble)[/warmup-1\monkey_trouble]
   
